@@ -1,2 +1,3 @@
 # Distinct-Number
-(Distinct Numbers) دریافت 10 عدد از کاربر و نمایش اعداد غیر تکراری 
+
+The program prompt the user to enter 10 numbers in the input console and then display the distinct numbers as an output.
